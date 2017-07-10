@@ -1,0 +1,43 @@
+\ photometry/spectra for sdb-v1-140602.77-411046.7
+\
+\main_id='* chi Cen'
+\raj2000=211.511534
+\dej2000=-41.179633
+\sp_type='B2V'
+\sp_bibcode='2012AJ....144..130B'
+\plx_value=6.39
+\plx_err=0.20999999344348907
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-140602.77-411046.7'
+|   Band|   Phot|       Err|      Sys| Lim|Unit|            bibcode|      Note1|     Note2|                 SourceID|private|exclude|
+|   char| double|    double|   double|long|char|               char|       char|      char|                     char|   long|   long|
+|       |       |          |         |    |    |                   |           |          |                         |       |       |
+|   null|   null|      null|     null|null|null|               null|       null|      null|                     null|   null|   null|
+   UJ_BJ  -0.774      0.013     0.028    0  mag 2006yCat.2168....0M       Comp:    n_U_B:>                 HD 122980       0       0 
+ STROMC1   0.169      0.006     0.005    0  mag 2015A&A...580A..23P  Vmag:4.368 beta:2.655           TYC 7807-2674-1       0       0 
+      BT     4.1      0.014     0.006    0  mag 2000A&A...355L..27H    Prox:854  HIP:68862 sdb-v1-140602.77-411046.7       0       0 
+ STROMM1   0.094      0.008     0.005    0  mag 2015A&A...580A..23P  Vmag:4.368 beta:2.655           TYC 7807-2674-1       0       0 
+   BJ_VJ  -0.195      0.006      0.02    0  mag 2006yCat.2168....0M       Comp:    n_B_V:>                 HD 122980       0       0 
+   BS_YS  -0.093      0.005     0.005    0  mag 2015A&A...580A..23P  Vmag:4.368 beta:2.655           TYC 7807-2674-1       0       0 
+      VT   4.311      0.009     0.006    0  mag 2000A&A...355L..27H    Prox:854  HIP:68862 sdb-v1-140602.77-411046.7       0       0 
+      HP  4.2874 0.00504876     0.005    0  mag 1997HIP...C......0E   VarType:C      Mult:                 HIP 68862       0       0 
+      VJ   4.353      0.007      0.02    0  mag 2006yCat.2168....0M       Comp:   n_Vmag:>                 HD 122980       0       0 
+     2MJ   4.881      0.188      0.01    0  mag 2003tmc..book.....C      Qflg:C     Cflg:0 sdb-v1-140602.77-411046.7       0       0 
+   2MR1H   4.969      0.076      0.01    0  mag 2003tmc..book.....C      Qflg:E     Cflg:0 sdb-v1-140602.77-411046.7       0       1 
+  2MR1KS   4.931      0.023      0.01    0  mag 2003tmc..book.....C      Qflg:A     Cflg:0 sdb-v1-140602.77-411046.7       0       0 
+ WISE3P4   4.976       0.15     0.024    0  mag 2010AJ....140.1868W      qual:B   Var:0110 sdb-v1-140602.77-411046.7       0       0 
+ WISE4P6    4.87      0.059     0.028    0  mag 2010AJ....140.1868W      qual:A   Var:0110 sdb-v1-140602.77-411046.7       0       0 
+  AKARI9  0.5495     0.0114 0.0082425    0   Jy 2010A&A...514A...1I      ext?:0   N-near:0 sdb-v1-140602.77-411046.7       0       0 
+  IRAS12   0.362    0.02534       0.0    0   Jy 1988IRASP.C......0J      Qual:3     Conf:0           IRAS 14029-4056       0       1 
+  IRAS12   0.392    0.02744       0.0    0   Jy 1990IRASF.C......0M      Qual:3     Conf:0          IRAS F14029-4056       0       0 
+  WISE12   5.117      0.015     0.045    0  mag 2010AJ....140.1868W      qual:A   Var:0110 sdb-v1-140602.77-411046.7       0       0 
+ AKARI18  0.1289    0.00927 0.0019335    0   Jy 2010A&A...514A...1I      ext?:0   N-near:0 sdb-v1-140602.77-411046.7       0       0 
+  WISE22   5.073      0.027     0.057    0  mag 2010AJ....140.1868W      qual:A   Var:0110 sdb-v1-140602.77-411046.7       0       0 
+  IRAS25   0.138    0.02622       0.0    0   Jy 1990IRASF.C......0M      Qual:2     Conf:0          IRAS F14029-4056       0       0 
+  IRAS25    0.25        0.0       0.0    1   Jy 1988IRASP.C......0J      Qual:1     Conf:0           IRAS 14029-4056       0       1 
+  MIPS24 65440.0      100.4    1308.8    0  uJy       2013.SEIP.dr4    Brt:1.01   Ext:1.01 sdb-v1-140602.77-411046.7       0       0 
+  IRAS60   0.187    0.04114       0.0    1   Jy 1990IRASF.C......0M      Qual:1     Conf:0          IRAS F14029-4056       0       0 
+  IRAS60     0.4        0.0       0.0    1   Jy 1988IRASP.C......0J      Qual:1     Conf:0           IRAS 14029-4056       0       1 
+  MIPS70    28.7        0.0     2.009    1  mJy 2012ApJ...756..133C 24 Contam:N     Notes:                 HD 122980       0       0 
+ IRAS100    1.05        0.0       0.0    1   Jy 1988IRASP.C......0J      Qual:1     Conf:0           IRAS 14029-4056       0       1 
+ IRAS100   0.744    0.14136       0.0    1   Jy 1990IRASF.C......0M      Qual:1     Conf:0          IRAS F14029-4056       0       0 

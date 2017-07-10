@@ -1,0 +1,39 @@
+\ photometry/spectra for sdb-v1-153553.25-445730.2
+\
+\main_id='* d Lup'
+\raj2000=233.971867
+\dej2000=-44.958388
+\sp_type='B3V'
+\sp_bibcode='1978MSS...C02....0H'
+\plx_value=7.62
+\plx_err=0.4300000071525574
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-153553.25-445730.2'
+|   Band|   Phot|       Err|      Sys| Lim|Unit|            bibcode|      Note1|            Note2|                 SourceID|private|exclude|
+|   char| double|    double|   double|long|char|               char|       char|             char|                     char|   long|   long|
+|       |       |          |         |    |    |                   |           |                 |                         |       |       |
+|   null|   null|      null|     null|null|null|               null|       null|             null|                     null|   null|   null|
+   UJ_BJ  -0.687      0.019     0.028    0  mag 2006yCat.2168....0M      Comp:D           n_U_B:>                 HD 138769       0       1 
+ STROMC1   0.266      0.007     0.005    0  mag 2015A&A...580A..23P  Vmag:4.532        beta:2.686           TYC 7848-2378-1       0       0 
+      BT   4.466      0.014     0.006    0  mag 2000A&A...355L..27H     Prox:21         HIP:76371 sdb-v1-153553.25-445730.2       0       0 
+ STROMM1   0.099      0.004     0.005    0  mag 2015A&A...580A..23P  Vmag:4.532        beta:2.686           TYC 7848-2378-1       0       0 
+   BJ_VJ  -0.184      0.008      0.02    0  mag 2006yCat.2168....0M      Comp:D           n_B_V:>                 HD 138769       0       1 
+   BS_YS  -0.087      0.002     0.005    0  mag 2015A&A...580A..23P  Vmag:4.532        beta:2.686           TYC 7848-2378-1       0       0 
+      VT   4.676      0.009     0.006    0  mag 2000A&A...355L..27H     Prox:21         HIP:76371 sdb-v1-153553.25-445730.2       0       0 
+      HP  4.4911 0.00806226     0.005    0  mag 1997HIP...C......0E   VarType:P            Mult:C                 HIP 76371       0       1 
+      VJ   4.538      0.004      0.02    0  mag 2006yCat.2168....0M      Comp:D          n_Vmag:>                 HD 138769       0       1 
+  IDENIS   8.671       0.04      0.01    0  mag 2005yCat.2263....0T     Ipsf:25            Iflg:4 sdb-v1-153553.25-445730.2       0       1 
+   2MR1J   4.967      0.037      0.01    0  mag 2003tmc..book.....C      Qflg:E            Cflg:0 sdb-v1-153553.25-445730.2       0       1 
+   2MR1H   5.071      0.023      0.01    0  mag 2003tmc..book.....C      Qflg:A            Cflg:0 sdb-v1-153553.25-445730.2       0       0 
+  2MR1KS   5.099      0.031      0.01    0  mag 2003tmc..book.....C      Qflg:A            Cflg:0 sdb-v1-153553.25-445730.2       0       0 
+ WISE3P4   5.107      0.194     0.024    0  mag 2010AJ....140.1868W      qual:B          Var:1100 sdb-v1-153553.25-445730.2       0       0 
+ WISE4P6   4.938      0.088     0.028    0  mag 2010AJ....140.1868W      qual:A          Var:1100 sdb-v1-153553.25-445730.2       0       0 
+  AKARI9  0.4895    0.00799 0.0073425    0   Jy 2010A&A...514A...1I      ext?:0          N-near:0 sdb-v1-153553.25-445730.2       0       0 
+  IRAS12   0.389    0.04668       0.0    0   Jy 1988IRASP.C......0J      Qual:3            Conf:0           IRAS 15324-4447       0       0 
+  WISE12   5.194      0.015     0.045    0  mag 2010AJ....140.1868W      qual:A          Var:1100 sdb-v1-153553.25-445730.2       0       0 
+  WISE22   5.103      0.028     0.057    0  mag 2010AJ....140.1868W      qual:A          Var:1100 sdb-v1-153553.25-445730.2       0       0 
+  IRAS25    0.25        0.0       0.0    1   Jy 1988IRASP.C......0J      Qual:1            Conf:0           IRAS 15324-4447       0       0 
+  MIPS24 61850.0      107.4    1237.0    0  uJy       2013.SEIP.dr4    Brt:1.11          Ext:1.11 sdb-v1-153553.25-445730.2       0       0 
+  IRAS60    2.07        0.0       0.0    1   Jy 1988IRASP.C......0J      Qual:1            Conf:0           IRAS 15324-4447       0       0 
+  MIPS70    16.8        0.0     1.176    1  mJy 2012ApJ...756..133C 24 Contam:Y Notes:VB, Be star                 HD 138769       0       0 
+ IRAS100     2.7        0.0       0.0    1   Jy 1988IRASP.C......0J      Qual:1            Conf:0           IRAS 15324-4447       0       0 

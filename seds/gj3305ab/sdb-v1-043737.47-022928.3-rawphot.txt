@@ -1,0 +1,35 @@
+\ photometry/spectra for sdb-v1-043737.47-022928.3
+\
+\main_id='GJ 3305'
+\raj2000=69.406112
+\dej2000=-2.491203
+\sp_type='M1.1V'
+\sp_bibcode='2009ApJ...699..649S'
+\plx_value=None
+\plx_err=None
+\plx_bibcode=None
+\id='sdb-v1-043737.47-022928.3'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_14982144t.fits'
+|   Band|      Phot|       Err|        Sys| Lim|Unit|            bibcode|     Note1|    Note2|                 SourceID|private|exclude|
+|   char|    double|    double|     double|long|char|               char|      char|     char|                     char|   long|   long|
+|       |          |          |           |    |    |                   |          |         |                         |       |       |
+|   null|      null|      null|       null|null|null|               null|      null|     null|                     null|   null|   null|
+  BAPASS     11.943      0.008        0.01    0  mag 2016yCat.2336....0H     nobs:3   mobs:14 sdb-v1-043737.47-022928.3       0       0 
+  GAPASS     11.269      0.008        0.01    0  mag 2016yCat.2336....0H     nobs:3   mobs:14 sdb-v1-043737.47-022928.3       0       0 
+  VAPASS     10.558      0.042        0.01    0  mag 2016yCat.2336....0H     nobs:3   mobs:14 sdb-v1-043737.47-022928.3       0       0 
+  RAPASS     10.034      0.068        0.01    0  mag 2016yCat.2336....0H     nobs:3   mobs:14 sdb-v1-043737.47-022928.3       0       0 
+  IDENIS      9.196       0.03        0.01    0  mag 2005yCat.2263....0T    Ipsf:93  Iflg:804 sdb-v1-043737.47-022928.3       0       1 
+   2MR1J      7.299      0.019        0.01    0  mag 2003tmc..book.....C     Qflg:A    Cflg:0 sdb-v1-043737.47-022928.3       0       0 
+   2MR1H      6.639      0.049        0.01    0  mag 2003tmc..book.....C     Qflg:A    Cflg:0 sdb-v1-043737.47-022928.3       0       0 
+  2MR1KS      6.413      0.018        0.01    0  mag 2003tmc..book.....C     Qflg:A    Cflg:0 sdb-v1-043737.47-022928.3       0       0 
+ WISE3P4      6.355      0.035       0.024    0  mag 2010AJ....140.1868W     qual:A  Var:1300 sdb-v1-043737.47-022928.3       0       0 
+ WISE4P6      6.177      0.023       0.028    0  mag 2010AJ....140.1868W     qual:A  Var:1300 sdb-v1-043737.47-022928.3       0       0 
+  AKARI9     0.1784     0.0174    0.002676    0   Jy 2010A&A...514A...1I     ext?:0  N-near:0 sdb-v1-043737.47-022928.3       0       0 
+  WISE12      6.163      0.015       0.045    0  mag 2010AJ....140.1868W     qual:A  Var:1300 sdb-v1-043737.47-022928.3       0       0 
+  WISE22       6.01      0.055       0.057    0  mag 2010AJ....140.1868W     qual:A  Var:1300 sdb-v1-043737.47-022928.3       0       0 
+  MIPS24    27700.0      82.67       554.0    0  uJy       2013.SEIP.dr4      Brt:0     Ext:0 sdb-v1-043737.47-022928.3       0       0 
+  PACS70 0.00042346 0.00183239 1.09516e-05    0   Jy             HSA_GMK 1342224850  Phot:PSF                   GJ 3305       0       0 
+  MIPS70       23.0        0.0        0.92    1  mJy 2008ApJ...681.1484R        ID: Vmag:10.6                   GJ 3305       0       0 
+ PACS100  0.0025029  0.0023019 6.30984e-05    0   Jy             HSA_GMK 1342224852  Phot:PSF                   GJ 3305       0       0 
+ PACS160  0.0185014 0.00822057  0.00076452    0   Jy             HSA_GMK 1342224852  Phot:PSF                   GJ 3305       0       1 
+ PACS160  0.0137558 0.00573751  0.00056842    0   Jy             HSA_GMK 1342224850  Phot:PSF                   GJ 3305       0       0 

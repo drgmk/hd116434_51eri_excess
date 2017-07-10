@@ -1,0 +1,39 @@
+\ photometry/spectra for sdb-v1-121706.31-654134.7
+\
+\main_id='HR 4669'
+\raj2000=184.2762901
+\dej2000=-65.6929594
+\sp_type='A0V'
+\sp_bibcode='1975MSS...C01....0H'
+\plx_value=9.510000228881836
+\plx_err=0.3499999940395355
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-121706.31-654134.7'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_26123520t.fits'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_22800640t.fits'
+|   Band|    Phot|       Err|      Sys| Lim|Unit|            bibcode|        Note1|     Note2|                 SourceID|private|exclude|
+|   char|  double|    double|   double|long|char|               char|         char|      char|                     char|   long|   long|
+|       |        |          |         |    |    |                   |             |          |                         |       |       |
+|   null|    null|      null|     null|null|null|               null|         null|      null|                     null|   null|   null|
+   UJ_BJ    -0.05       0.12     0.028    0  mag 2006yCat.2168....0M         Comp:    n_U_B:>                 HD 106797       0       0 
+ STROMC1    0.904      0.005     0.005    0  mag 2015A&A...580A..23P    Vmag:6.066 beta:2.884           TYC 8986-4286-1       0       0 
+      BT    6.083      0.014     0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:59898 sdb-v1-121706.31-654134.7       0       0 
+ STROMM1    0.164      0.008     0.005    0  mag 2015A&A...580A..23P    Vmag:6.066 beta:2.884           TYC 8986-4286-1       0       0 
+   BJ_VJ    0.025      0.005      0.02    0  mag 2006yCat.2168....0M         Comp:    n_B_V:>                 HD 106797       0       0 
+   BS_YS    0.006      0.002     0.005    0  mag 2015A&A...580A..23P    Vmag:6.066 beta:2.884           TYC 8986-4286-1       0       0 
+      VT    6.056      0.009     0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:59898 sdb-v1-121706.31-654134.7       0       0 
+      HP   6.0765 0.00702567     0.005    0  mag 1997HIP...C......0E      VarType:      Mult:                 HIP 59898       0       0 
+      VJ    6.052      0.004      0.02    0  mag 2006yCat.2168....0M         Comp:   n_Vmag:>                 HD 106797       0       0 
+  IDENIS    8.819       0.03      0.01    0  mag 2005yCat.2263....0T       Ipsf:36  Iflg:1004 sdb-v1-121706.31-654134.7       0       1 
+   2MR1J    5.997       0.02      0.01    0  mag 2003tmc..book.....C        Qflg:A     Cflg:0 sdb-v1-121706.31-654134.7       0       0 
+   2MR1H    6.031       0.04      0.01    0  mag 2003tmc..book.....C        Qflg:A     Cflg:0 sdb-v1-121706.31-654134.7       0       0 
+  2MR1KS    5.999      0.024      0.01    0  mag 2003tmc..book.....C        Qflg:A     Cflg:0 sdb-v1-121706.31-654134.7       0       0 
+ WISE3P4    6.021      0.072     0.024    0  mag 2010AJ....140.1868W        qual:A   Var:4200 sdb-v1-121706.31-654134.7       0       0 
+ WISE4P6     5.93      0.022     0.028    0  mag 2010AJ....140.1868W        qual:A   Var:4200 sdb-v1-121706.31-654134.7       0       0 
+  AKARI9   0.2665     0.0171 0.0039975    0   Jy 2010A&A...514A...1I        ext?:0   N-near:0 sdb-v1-121706.31-654134.7       0       0 
+  WISE12     5.75      0.015     0.045    0  mag 2010AJ....140.1868W        qual:A   Var:4200 sdb-v1-121706.31-654134.7       0       0 
+ AKARI18   0.1475     0.0168 0.0022125    0   Jy 2010A&A...514A...1I        ext?:0   N-near:0 sdb-v1-121706.31-654134.7       0       0 
+  WISE22    4.278      0.023     0.057    0  mag 2010AJ....140.1868W        qual:A   Var:4200 sdb-v1-121706.31-654134.7       0       0 
+  MIPS24 148100.0      134.6    2962.0    0  uJy       2013.SEIP.dr4      Brt:1.11   Ext:1.11 sdb-v1-121706.31-654134.7       0       0 
+  MIPS70     14.0        0.0      0.98    1  mJy 2014ApJS..211...25C Name:HD106797    r_F70:8                 HD 106797       0       0 
+  MIPS70     14.0        0.0      0.98    1  mJy 2012ApJ...756..133C   24 Contam:N     Notes:                 HD 106797       0       1 

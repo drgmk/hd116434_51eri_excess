@@ -1,0 +1,46 @@
+\ photometry/spectra for sdb-v1-105703.02-684002.4
+\
+\main_id='HD 95086'
+\raj2000=164.2625895
+\dej2000=-68.6673472
+\sp_type='A8III'
+\sp_bibcode='1975MSS...C01....0H'
+\plx_value=11.9399995803833
+\plx_err=0.27000001072883606
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-105703.02-684002.4'
+|    Band|    Phot|       Err|      Sys| Lim|Unit|            bibcode|       Note1|        Note2|                  SourceID|private|exclude|
+|    char|  double|    double|   double|long|char|               char|        char|         char|                      char|   long|   long|
+|        |        |          |         |    |    |                   |            |             |                          |       |       |
+|    null|    null|      null|     null|null|null|               null|        null|         null|                      null|   null|   null|
+       BT    7.649      0.015     0.006    0  mag 2000A&A...355L..27H     Prox:999     HIP:53524  sdb-v1-105703.02-684002.4       0       0 
+       VT     7.39       0.01     0.006    0  mag 2000A&A...355L..27H     Prox:999     HIP:53524  sdb-v1-105703.02-684002.4       0       0 
+       HP    7.431  0.0100499     0.005    0  mag 1997HIP...C......0E    VarType:C         Mult:                  HIP 53524       0       0 
+   IDENIS    8.236       0.03      0.01    0  mag 2005yCat.2263....0T      Ipsf:66        Iflg:4  sdb-v1-105703.02-684002.4       0       1 
+    2MR1J    6.906      0.019      0.01    0  mag 2003tmc..book.....C       Qflg:A        Cflg:0  sdb-v1-105703.02-684002.4       0       0 
+    2MR1H    6.867      0.047      0.01    0  mag 2003tmc..book.....C       Qflg:A        Cflg:0  sdb-v1-105703.02-684002.4       0       0 
+   2MR1KS    6.789      0.021      0.01    0  mag 2003tmc..book.....C       Qflg:A        Cflg:0  sdb-v1-105703.02-684002.4       0       0 
+  WISE3P4    6.717      0.067     0.024    0  mag 2010AJ....140.1868W       qual:A      Var:2210  sdb-v1-105703.02-684002.4       0       0 
+  WISE4P6    6.745       0.02     0.028    0  mag 2010AJ....140.1868W       qual:A      Var:2210  sdb-v1-105703.02-684002.4       0       0 
+   AKARI9   0.1431    0.00471 0.0021465    0   Jy 2010A&A...514A...1I       ext?:0      N-near:0  sdb-v1-105703.02-684002.4       0       0 
+   IRAS12    0.281        0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1        Conf:0            IRAS 10552-6824       0       0 
+   WISE12    6.692      0.015     0.045    0  mag 2010AJ....140.1868W       qual:A      Var:2210  sdb-v1-105703.02-684002.4       0       0 
+   WISE22    5.475      0.028     0.057    0  mag 2010AJ....140.1868W       qual:A      Var:2210  sdb-v1-105703.02-684002.4       0       0 
+   IRAS25     0.25        0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1        Conf:0            IRAS 10552-6824       0       0 
+   MIPS24  49300.0      84.95     986.0    0  uJy       2013.SEIP.dr4     Brt:1.01         Ext:0  sdb-v1-105703.02-684002.4       0       0 
+   IRAS60    0.601    0.04808       0.0    0   Jy 1988IRASP.C......0J       Qual:3        Conf:0            IRAS 10552-6824       0       0 
+   PACS70  608.673   0.747451   18.2602    0  mJy 2017arXiv170505693M Elong:0.0000       Blend:0 HPPSC070A_J105703.1-684005       0       0 
+   PACS70  0.48087 0.00110425 0.0124363    0   Jy             HSA_GMK   1342225005      Phot:PSF                   HD 95086       0       1 
+   MIPS70    654.6      33.17    45.822    0  mJy 2014ApJS..211...25C Name:HD95086       r_F70:8                   HD 95086       0       0 
+   MIPS70    654.6        5.4    45.822    0  mJy 2012ApJ...756..133C  24 Contam:Y      Notes:VB                   HD 95086       0       1 
+  IRAS100     1.83        0.0       0.0    1   Jy 1988IRASP.C......0J       Qual:1        Conf:0            IRAS 10552-6824       0       0 
+  PACS100  560.383    4.08894   28.0191    0  mJy 2017arXiv170505693M Elong:0.9330       Blend:0 HPPSC100A_J105703.1-684005       0       0 
+  PACS100 0.486023 0.00130094 0.0122527    0   Jy             HSA_GMK   1342225007      Phot:PSF                   HD 95086       0       1 
+  PACS160  442.444    8.43435   13.2733    0  mJy 2017arXiv170505693M Elong:0.0000       Blend:0 HPPSC160A_J105703.0-684005       0       0 
+  PACS160 0.402582 0.00390882 0.0166356    0   Jy             HSA_GMK   1342225007      Phot:PSF                   HD 95086       0       1 
+  PACS160 0.404255 0.00349319 0.0167047    0   Jy             HSA_GMK   1342225005      Phot:PSF                   HD 95086       0       1 
+ SPIRE250    212.6       10.0    14.882    0  mJy       2017.HSPSC_v1        Ext:0    Low FWHM:0  HSPSC250A_J1057.04-6840.0       0       0 
+ SPIRE350    136.1       13.0     9.527    0  mJy       2017.HSPSC_v1        Ext:0    Low FWHM:0  HSPSC350A_J1057.04-6840.0       0       0 
+ SPIRE500     58.7       10.5     4.109    0  mJy       2017.HSPSC_v1        Ext:0    Low FWHM:0  HSPSC500A_J1057.05-6840.0       0       0 
+   WAV870     41.3       18.4       0.0    0  mJy 2010A&A...518A..40N Instr:LABOCA         Name:                   HD 95086       0       0 
+  WAV6800   0.0619     0.0159       0.0    0  mJy 2015ApJ...813..138R   Instr:ATCA Name:HD 95086                   HD 95086       0       0 

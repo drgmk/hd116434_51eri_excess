@@ -1,0 +1,39 @@
+\ photometry/spectra for sdb-v1-122631.76-512702.3
+\
+\main_id='* G Cen'
+\raj2000=186.632331
+\dej2000=-51.450636
+\sp_type='B3V(n)'
+\sp_bibcode='1978MSS...C02....0H'
+\plx_value=7.28
+\plx_err=0.23999999463558197
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-122631.76-512702.3'
+|   Band|   Phot|       Err|     Sys| Lim|Unit|            bibcode|        Note1|     Note2|                 SourceID|private|exclude|
+|   char| double|    double|  double|long|char|               char|         char|      char|                     char|   long|   long|
+|       |       |          |        |    |    |                   |             |          |                         |       |       |
+|   null|   null|      null|    null|null|null|               null|         null|      null|                     null|   null|   null|
+   UJ_BJ  -0.662      0.057    0.028    0  mag 2006yCat.2168....0M         Comp:    n_U_B:>                 HD 108257       0       0 
+ STROMC1   0.344      0.013    0.005    0  mag 2015A&A...580A..23P     Vmag:4.81 beta:2.683           TYC 8243-3043-1       0       0 
+      BT   4.615      0.014    0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:60710 sdb-v1-122631.76-512702.3       0       0 
+ STROMM1   0.091       0.01    0.005    0  mag 2015A&A...580A..23P     Vmag:4.81 beta:2.683           TYC 8243-3043-1       0       0 
+   BJ_VJ  -0.141      0.002     0.02    0  mag 2006yCat.2168....0M         Comp:    n_B_V:>                 HD 108257       0       0 
+   BS_YS  -0.062      0.006    0.005    0  mag 2015A&A...580A..23P     Vmag:4.81 beta:2.683           TYC 8243-3043-1       0       0 
+      VT   4.783      0.009    0.006    0  mag 2000A&A...355L..27H      Prox:999  HIP:60710 sdb-v1-122631.76-512702.3       0       0 
+      HP  4.7661 0.00601332    0.005    0  mag 1997HIP...C......0E      VarType:      Mult:                 HIP 60710       0       0 
+      VJ   4.815      0.005     0.02    0  mag 2006yCat.2168....0M         Comp:   n_Vmag:>                 HD 108257       0       0 
+   2MR1J   5.152      0.018     0.01    0  mag 2003tmc..book.....C        Qflg:E     Cflg:d sdb-v1-122631.76-512702.3       0       1 
+   2MR1H   5.359      0.073     0.01    0  mag 2003tmc..book.....C        Qflg:E     Cflg:0 sdb-v1-122631.76-512702.3       0       1 
+  2MR1KS   5.234      0.023     0.01    0  mag 2003tmc..book.....C        Qflg:A     Cflg:0 sdb-v1-122631.76-512702.3       0       0 
+ WISE3P4   5.239      0.191    0.024    0  mag 2010AJ....140.1868W        qual:B   Var:0300 sdb-v1-122631.76-512702.3       0       0 
+ WISE4P6   5.097      0.068    0.028    0  mag 2010AJ....140.1868W        qual:A   Var:0300 sdb-v1-122631.76-512702.3       0       0 
+  AKARI9  0.4436     0.0106 0.006654    0   Jy 2010A&A...514A...1I        ext?:0   N-near:0 sdb-v1-122631.76-512702.3       0       0 
+  IRAS12   0.285     0.0285      0.0    0   Jy 1990IRASF.C......0M        Qual:3     Conf:2          IRAS F12238-5110       0       0 
+  WISE12   5.359      0.015    0.045    0  mag 2010AJ....140.1868W        qual:A   Var:0300 sdb-v1-122631.76-512702.3       0       0 
+  WISE22   5.326      0.035    0.057    0  mag 2010AJ....140.1868W        qual:A   Var:0300 sdb-v1-122631.76-512702.3       0       0 
+  IRAS25   0.273    0.04368      0.0    1   Jy 1990IRASF.C......0M        Qual:1     Conf:2          IRAS F12238-5110       0       0 
+  MIPS24 51390.0      93.66   1027.8    0  uJy       2013.SEIP.dr4      Brt:1.01   Ext:1.01 sdb-v1-122631.76-512702.3       0       0 
+  IRAS60    2.01     0.5427      0.0    1   Jy 1990IRASF.C......0M        Qual:1     Conf:2          IRAS F12238-5110       0       0 
+  MIPS70    54.7        0.0    3.829    1  mJy 2014ApJS..211...25C Name:HD108257    r_F70:8                 HD 108257       0       0 
+  MIPS70    54.7        0.0    3.829    1  mJy 2012ApJ...756..133C   24 Contam:N   Notes:VB                 HD 108257       0       1 
+ IRAS100     4.4        1.1      0.0    1   Jy 1990IRASF.C......0M        Qual:1     Conf:2          IRAS F12238-5110       0       0 

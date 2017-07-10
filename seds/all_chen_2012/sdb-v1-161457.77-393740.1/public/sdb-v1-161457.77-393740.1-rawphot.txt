@@ -1,0 +1,30 @@
+\ photometry/spectra for sdb-v1-161457.77-393740.1
+\
+\main_id='HD 145880'
+\raj2000=243.7406935
+\dej2000=-39.6278114
+\sp_type='B9.5V'
+\sp_bibcode='1982MSS...C03....0H'
+\plx_value=7.980000019073486
+\plx_err=0.4399999976158142
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-161457.77-393740.1'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_26314496t.fits'
+|   Band|   Phot|       Err|   Sys| Lim|Unit|            bibcode|        Note1|    Note2|                 SourceID|private|exclude|
+|   char| double|    double|double|long|char|               char|         char|     char|                     char|   long|   long|
+|       |       |          |      |    |    |                   |             |         |                         |       |       |
+|   null|   null|      null|  null|null|null|               null|         null|     null|                     null|   null|   null|
+      BT   7.186      0.015  0.006    0  mag 2000A&A...355L..27H      Prox:999 HIP:79631 sdb-v1-161457.77-393740.1       0       0 
+      VT   7.163      0.011  0.006    0  mag 2000A&A...355L..27H      Prox:999 HIP:79631 sdb-v1-161457.77-393740.1       0       0 
+      HP  7.1749 0.00806226  0.005    0  mag 1997HIP...C......0E     VarType:C     Mult:                 HIP 79631       0       0 
+  IDENIS   8.404       0.03   0.01    0  mag 2005yCat.2263....0T       Ipsf:73    Iflg:4 sdb-v1-161457.77-393740.1       0       1 
+   2MR1J   6.996      0.026   0.01    0  mag 2003tmc..book.....C        Qflg:A    Cflg:0 sdb-v1-161457.77-393740.1       0       0 
+   2MR1H   6.853       0.04   0.01    0  mag 2003tmc..book.....C        Qflg:A    Cflg:0 sdb-v1-161457.77-393740.1       0       0 
+  2MR1KS   6.668      0.038   0.01    0  mag 2003tmc..book.....C        Qflg:A    Cflg:0 sdb-v1-161457.77-393740.1       0       0 
+ WISE3P4   5.646      0.075  0.024    0  mag 2010AJ....140.1868W        qual:A  Var:3n10 sdb-v1-161457.77-393740.1       0       0 
+ WISE4P6   6.212      0.022  0.028    0  mag 2010AJ....140.1868W        qual:A  Var:3n10 sdb-v1-161457.77-393740.1       0       0 
+  WISE12   6.232      0.016  0.045    0  mag 2010AJ....140.1868W        qual:A  Var:3n10 sdb-v1-161457.77-393740.1       0       0 
+  WISE22   4.722      0.034  0.057    0  mag 2010AJ....140.1868W        qual:A  Var:3n10 sdb-v1-161457.77-393740.1       0       0 
+  MIPS24 94450.0      123.5 1889.0    0  uJy       2013.SEIP.dr4      Brt:0.96     Ext:0 sdb-v1-161457.77-393740.1       0       0 
+  MIPS70   338.3        9.4 23.681    0  mJy 2012ApJ...756..133C   24 Contam:Y  Notes:VB                 HD 145880       0       1 
+  MIPS70   338.3      19.35 23.681    0  mJy 2014ApJS..211...25C Name:HD145880   r_F70:8                 HD 145880       0       0 

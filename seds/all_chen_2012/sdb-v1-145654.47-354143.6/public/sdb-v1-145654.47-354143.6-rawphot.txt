@@ -1,0 +1,55 @@
+\ photometry/spectra for sdb-v1-145654.47-354143.6
+\
+\main_id='HD 131835'
+\raj2000=224.2269492
+\dej2000=-35.6954607
+\sp_type='A2IV'
+\sp_bibcode='1982MSS...C03....0H'
+\plx_value=6.869999885559082
+\plx_err=0.4000000059604645
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-145654.47-354143.6'
+\irsstare0='cassis/irsstare/cassis_yaaar_spcfw_22803968t.fits'
+\irsstare1='cassis/irsstare/cassis_yaaar_spcfw_21805568t.fits'
+|   Band|    Phot|       Err|       Sys| Lim|Unit|            bibcode|        Note1|    Note2|                  SourceID|private|exclude|
+|   char|  double|    double|    double|long|char|               char|         char|     char|                      char|   long|   long|
+|       |        |          |          |    |    |                   |             |         |                          |       |       |
+|   null|    null|      null|      null|null|null|               null|         null|     null|                      null|   null|   null|
+  GALNUV    12.34      0.004       0.01    0  mag 2011Ap&SS.335..161B        Nafl:0    Nexf:0  sdb-v1-145654.47-354143.6       0       0 
+      BT    8.097      0.016      0.006    0  mag 2000A&A...355L..27H      Prox:999 HIP:73145  sdb-v1-145654.47-354143.6       0       0 
+  BAPASS    8.001      0.055       0.01    0  mag 2016yCat.2336....0H        nobs:7   mobs:14  sdb-v1-145654.47-354143.6       0       0 
+  GAPASS     7.91        0.0       0.01    0  mag 2016yCat.2336....0H        nobs:7   mobs:14  sdb-v1-145654.47-354143.6       0       1 
+      VT    7.887      0.012      0.006    0  mag 2000A&A...355L..27H      Prox:999 HIP:73145  sdb-v1-145654.47-354143.6       0       0 
+      HP   7.9459  0.0110653      0.005    0  mag 1997HIP...C......0E     VarType:C     Mult:                  HIP 73145       0       0 
+  VAPASS    7.822      0.112       0.01    0  mag 2016yCat.2336....0H        nobs:7   mobs:14  sdb-v1-145654.47-354143.6       0       0 
+  RAPASS    8.008        0.0       0.01    0  mag 2016yCat.2336....0H        nobs:7   mobs:14  sdb-v1-145654.47-354143.6       0       1 
+  IAPASS    8.135        0.0       0.01    0  mag 2016yCat.2336....0H        nobs:7   mobs:14  sdb-v1-145654.47-354143.6       0       1 
+   2MR1J    7.604      0.021       0.01    0  mag 2003tmc..book.....C        Qflg:A    Cflg:0  sdb-v1-145654.47-354143.6       0       0 
+   2MR1H    7.564      0.038       0.01    0  mag 2003tmc..book.....C        Qflg:A    Cflg:0  sdb-v1-145654.47-354143.6       0       0 
+  2MR1KS    7.524      0.018       0.01    0  mag 2003tmc..book.....C        Qflg:A    Cflg:0  sdb-v1-145654.47-354143.6       0       0 
+ WISE3P4    7.514      0.033      0.024    0  mag 2010AJ....140.1868W        qual:A  Var:2111  sdb-v1-145654.47-354143.6       0       0 
+ WISE4P6    7.523      0.019      0.028    0  mag 2010AJ....140.1868W        qual:A  Var:2111  sdb-v1-145654.47-354143.6       0       0 
+  AKARI9  0.06869    0.00608 0.00103035    0   Jy 2010A&A...514A...1I        ext?:0  N-near:0  sdb-v1-145654.47-354143.6       0       0 
+  IRAS12     0.39        0.0        0.0    1   Jy 1988IRASP.C......0J        Qual:1    Conf:0            IRAS 14538-3529       0       1 
+  IRAS12    0.156    0.04056        0.0    1   Jy 1990IRASF.C......0M        Qual:1    Conf:0           IRAS F14537-3529       0       0 
+  WISE12    6.922      0.016      0.045    0  mag 2010AJ....140.1868W        qual:A  Var:2111  sdb-v1-145654.47-354143.6       0       0 
+  WISE22    4.273      0.024      0.057    0  mag 2010AJ....140.1868W        qual:A  Var:2111  sdb-v1-145654.47-354143.6       0       0 
+  IRAS25    0.324        0.0        0.0    1   Jy 1988IRASP.C......0J        Qual:1    Conf:0            IRAS 14538-3529       0       1 
+  IRAS25    0.186    0.03348        0.0    0   Jy 1990IRASF.C......0M        Qual:2    Conf:0           IRAS F14537-3529       0       0 
+  MIPS24 153100.0      139.2     3062.0    0  uJy       2013.SEIP.dr4      Brt:0.96  Ext:0.96  sdb-v1-145654.47-354143.6       0       0 
+  IRAS60    0.684    0.06156        0.0    0   Jy 1990IRASF.C......0M        Qual:3    Conf:0           IRAS F14537-3529       0       0 
+  IRAS60    0.735     0.0588        0.0    0   Jy 1988IRASP.C......0J        Qual:3    Conf:0            IRAS 14538-3529       0       1 
+  PACS70  706.347    1.35758    21.1904    0  mJy 2017arXiv170505693M  Elong:0.9132   Blend:0 HPPSC070A_J145654.4-354144       0       0 
+  PACS70 0.486574 0.00299467  0.0125838    0   Jy             HSA_GMK    1342250784  Phot:PSF                  HD 131835       0       1 
+  MIPS70    659.2       33.4     46.144    0  mJy 2014ApJS..211...25C Name:HD131835   r_F70:8                  HD 131835       0       0 
+  MIPS70    659.2        5.4     46.144    0  mJy 2012ApJ...756..133C   24 Contam:Y    Notes:                  HD 131835       0       1 
+ IRAS100     1.32       0.33        0.0    1   Jy 1990IRASF.C......0M        Qual:1    Conf:0           IRAS F14537-3529       0       0 
+ IRAS100     1.04        0.0        0.0    1   Jy 1988IRASP.C......0J        Qual:1    Conf:0            IRAS 14538-3529       0       1 
+ PACS100  574.748    8.38262    28.7374    0  mJy 2017arXiv170505693M  Elong:0.9325   Blend:0 HPPSC100A_J145654.5-354144       0       0 
+ PACS100  0.48949 0.00250195  0.0123401    0   Jy             HSA_GMK    1342250868  Phot:PSF                  HD 131835       0       1 
+ PACS160 0.362471 0.00437104  0.0149781    0   Jy             HSA_GMK    1342250868  Phot:PSF                  HD 131835       0       1 
+ PACS160 0.364187  0.0038364   0.015049    0   Jy             HSA_GMK    1342250784  Phot:PSF                  HD 131835       0       1 
+ PACS160  354.947    10.2201    10.6484    0  mJy 2017arXiv170505693M  Elong:0.0000   Blend:0 HPPSC160A_J145654.4-354144       0       0 
+  WAV870      8.5        4.4        0.0    0  mJy 2010A&A...518A..40N  Instr:LABOCA     Name:                  HD 131835       0       0 
+ WAV1240      2.9       0.15        0.0    0  mJy 2016ApJ...828...25L    Instr:ALMA     Name:                  HIP 73145       0       0 
+ WAV9000    0.053      0.017        0.0    0  mJy 2017arXiv170309388M    Instr:ATCA     Name:                  HD 131835       0       0 

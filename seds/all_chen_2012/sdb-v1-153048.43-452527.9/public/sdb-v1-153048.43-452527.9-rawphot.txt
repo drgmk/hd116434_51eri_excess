@@ -1,0 +1,37 @@
+\ photometry/spectra for sdb-v1-153048.43-452527.9
+\
+\main_id='HD 137957'
+\raj2000=232.7017689
+\dej2000=-45.4244132
+\sp_type='A0V'
+\sp_bibcode='1978MSS...C02....0H'
+\plx_value=4.130000114440918
+\plx_err=0.3199999928474426
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-153048.43-452527.9'
+|   Band|   Phot|      Err|       Sys| Lim|Unit|            bibcode|      Note1|     Note2|                 SourceID|private|exclude|
+|   char| double|   double|    double|long|char|               char|       char|      char|                     char|   long|   long|
+|       |       |         |          |    |    |                   |           |          |                         |       |       |
+|   null|   null|     null|      null|null|null|               null|       null|      null|                     null|   null|   null|
+ STROMC1   1.115      0.01      0.005    0  mag 2015A&A...580A..23P   Vmag:7.44 beta:2.878           TYC 8295-1892-1       0       0 
+      BT   7.541     0.015      0.006    0  mag 2000A&A...355L..27H    Prox:999  HIP:75957 sdb-v1-153048.43-452527.9       0       0 
+  BAPASS   7.511       0.0       0.01    0  mag 2016yCat.2336....0H      nobs:2    mobs:10 sdb-v1-153048.43-452527.9       0       1 
+  GAPASS   7.543       0.0       0.01    0  mag 2016yCat.2336....0H      nobs:2    mobs:10 sdb-v1-153048.43-452527.9       0       1 
+ STROMM1   0.143     0.012      0.005    0  mag 2015A&A...580A..23P   Vmag:7.44 beta:2.878           TYC 8295-1892-1       0       0 
+   BS_YS   0.038     0.008      0.005    0  mag 2015A&A...580A..23P   Vmag:7.44 beta:2.878           TYC 8295-1892-1       0       0 
+      VT   7.451     0.011      0.006    0  mag 2000A&A...355L..27H    Prox:999  HIP:75957 sdb-v1-153048.43-452527.9       0       0 
+      HP  7.4831 0.0100717      0.005    0  mag 1997HIP...C......0E    VarType:      Mult:                 HIP 75957       0       0 
+  VAPASS   7.408       0.0       0.01    0  mag 2016yCat.2336....0H      nobs:2    mobs:10 sdb-v1-153048.43-452527.9       0       1 
+  RAPASS   7.513       0.0       0.01    0  mag 2016yCat.2336....0H      nobs:2    mobs:10 sdb-v1-153048.43-452527.9       0       1 
+  IAPASS   7.676       0.0       0.01    0  mag 2016yCat.2336....0H      nobs:2    mobs:10 sdb-v1-153048.43-452527.9       0       1 
+  IDENIS   8.953      0.07       0.01    0  mag 2005yCat.2263....0T     Ipsf:71     Iflg:4 sdb-v1-153048.43-452527.9       0       1 
+   2MR1J   7.257     0.026       0.01    0  mag 2003tmc..book.....C      Qflg:A     Cflg:0 sdb-v1-153048.43-452527.9       0       0 
+   2MR1H   7.251     0.038       0.01    0  mag 2003tmc..book.....C      Qflg:A     Cflg:0 sdb-v1-153048.43-452527.9       0       0 
+  2MR1KS   7.246     0.027       0.01    0  mag 2003tmc..book.....C      Qflg:A     Cflg:0 sdb-v1-153048.43-452527.9       0       0 
+ WISE3P4   7.183     0.045      0.024    0  mag 2010AJ....140.1868W      qual:A   Var:0000 sdb-v1-153048.43-452527.9       0       0 
+ WISE4P6   7.204      0.02      0.028    0  mag 2010AJ....140.1868W      qual:A   Var:0000 sdb-v1-153048.43-452527.9       0       0 
+  AKARI9 0.08395    0.0183 0.00125925    0   Jy 2010A&A...514A...1I      ext?:0   N-near:0 sdb-v1-153048.43-452527.9       0       0 
+  WISE12   7.243     0.018      0.045    0  mag 2010AJ....140.1868W      qual:A   Var:0000 sdb-v1-153048.43-452527.9       0       0 
+  WISE22   7.023     0.098      0.057    0  mag 2010AJ....140.1868W      qual:A   Var:0000 sdb-v1-153048.43-452527.9       0       0 
+  MIPS24 10070.0     67.52      201.4    0  uJy       2013.SEIP.dr4       Brt:0      Ext:0 sdb-v1-153048.43-452527.9       0       0 
+  MIPS70     5.3       0.0      0.371    1  mJy 2012ApJ...756..133C 24 Contam:Y   Notes:VB                 HD 137957       0       0 

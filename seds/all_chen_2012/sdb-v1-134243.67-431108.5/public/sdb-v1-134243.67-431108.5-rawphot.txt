@@ -1,0 +1,32 @@
+\ photometry/spectra for sdb-v1-134243.67-431108.5
+\
+\main_id='HD 119221'
+\raj2000=205.681968
+\dej2000=-43.18569
+\sp_type='A4V'
+\sp_bibcode='1978MSS...C02....0H'
+\plx_value=8.93
+\plx_err=0.7799999713897705
+\plx_bibcode='2007A&A...474..653V'
+\id='sdb-v1-134243.67-431108.5'
+|   Band|   Phot|       Err|     Sys| Lim|Unit|            bibcode|      Note1|     Note2|                 SourceID|private|exclude|
+|   char| double|    double|  double|long|char|               char|       char|      char|                     char|   long|   long|
+|       |       |          |        |    |    |                   |           |          |                         |       |       |
+|   null|   null|      null|    null|null|null|               null|       null|      null|                     null|   null|   null|
+ STROMC1   0.924       0.01    0.005    0  mag 2015A&A...580A..23P   Vmag:7.24 beta:2.879           TYC 7801-1161-1       0       0 
+      BT   7.504      0.016    0.006    0  mag 2000A&A...355L..27H    Prox:999  HIP:66908 sdb-v1-134243.67-431108.5       0       0 
+ STROMM1   0.192      0.012    0.005    0  mag 2015A&A...580A..23P   Vmag:7.24 beta:2.879           TYC 7801-1161-1       0       0 
+   BS_YS   0.086      0.008    0.005    0  mag 2015A&A...580A..23P   Vmag:7.24 beta:2.879           TYC 7801-1161-1       0       0 
+      VT   7.306      0.011    0.006    0  mag 2000A&A...355L..27H    Prox:999  HIP:66908 sdb-v1-134243.67-431108.5       0       0 
+      HP  7.3385 0.00810494    0.005    0  mag 1997HIP...C......0E   VarType:C      Mult:                 HIP 66908       0       0 
+  IDENIS   8.169       0.03     0.01    0  mag 2005yCat.2263....0T     Ipsf:68     Iflg:4 sdb-v1-134243.67-431108.5       0       1 
+   2MR1J   6.912      0.027     0.01    0  mag 2003tmc..book.....C      Qflg:A     Cflg:0 sdb-v1-134243.67-431108.5       0       0 
+   2MR1H   6.908      0.029     0.01    0  mag 2003tmc..book.....C      Qflg:A     Cflg:0 sdb-v1-134243.67-431108.5       0       0 
+  2MR1KS   6.851      0.023     0.01    0  mag 2003tmc..book.....C      Qflg:A     Cflg:0 sdb-v1-134243.67-431108.5       0       0 
+ WISE3P4    6.82      0.062    0.024    0  mag 2010AJ....140.1868W      qual:A   Var:1000 sdb-v1-134243.67-431108.5       0       0 
+ WISE4P6    6.81      0.021    0.028    0  mag 2010AJ....140.1868W      qual:A   Var:1000 sdb-v1-134243.67-431108.5       0       0 
+  AKARI9   0.127     0.0112 0.001905    0   Jy 2010A&A...514A...1I      ext?:0   N-near:0 sdb-v1-134243.67-431108.5       0       0 
+  WISE12   6.859      0.016    0.045    0  mag 2010AJ....140.1868W      qual:A   Var:1000 sdb-v1-134243.67-431108.5       0       0 
+  WISE22    6.91       0.07    0.057    0  mag 2010AJ....140.1868W      qual:A   Var:1000 sdb-v1-134243.67-431108.5       0       0 
+  MIPS24 13210.0      73.05    264.2    0  uJy       2013.SEIP.dr4       Brt:0      Ext:0 sdb-v1-134243.67-431108.5       0       0 
+  MIPS70     9.4        0.0    0.658    1  mJy 2012ApJ...756..133C 24 Contam:N     Notes:                 HD 119221       0       0 

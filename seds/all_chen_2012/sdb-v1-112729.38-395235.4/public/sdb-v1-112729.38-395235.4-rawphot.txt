@@ -1,0 +1,29 @@
+\ photometry/spectra for sdb-v1-112729.38-395235.4
+\
+\main_id='HD 99627'
+\raj2000=171.8724088
+\dej2000=-39.876503
+\sp_type='A0V'
+\sp_bibcode='1982MSS...C03....0H'
+\plx_value=6.989999771118164
+\plx_err=0.5099999904632568
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-112729.38-395235.4'
+|   Band|   Phot|      Err|     Sys| Lim|Unit|            bibcode|      Note1|    Note2|                 SourceID|private|exclude|
+|   char| double|   double|  double|long|char|               char|       char|     char|                     char|   long|   long|
+|       |       |         |        |    |    |                   |           |         |                         |       |       |
+|   null|   null|     null|    null|null|null|               null|       null|     null|                     null|   null|   null|
+  GALNUV  11.434     0.002     0.01    0  mag 2011Ap&SS.335..161B      Nafl:2    Nexf:2 sdb-v1-112729.38-395235.4       0       0 
+      BT   7.408     0.015    0.006    0  mag 2000A&A...355L..27H    Prox:999 HIP:55899 sdb-v1-112729.38-395235.4       0       0 
+      VT   7.328     0.011    0.006    0  mag 2000A&A...355L..27H    Prox:999 HIP:55899 sdb-v1-112729.38-395235.4       0       0 
+      HP  7.3494 0.0130981    0.005    0  mag 1997HIP...C......0E    VarType:     Mult:                 HIP 55899       0       0 
+   2MR1J   7.127     0.018     0.01    0  mag 2003tmc..book.....C      Qflg:A    Cflg:0 sdb-v1-112729.38-395235.4       0       0 
+   2MR1H   7.169     0.031     0.01    0  mag 2003tmc..book.....C      Qflg:A    Cflg:0 sdb-v1-112729.38-395235.4       0       0 
+  2MR1KS   7.073     0.023     0.01    0  mag 2003tmc..book.....C      Qflg:A    Cflg:0 sdb-v1-112729.38-395235.4       0       0 
+ WISE3P4   7.013     0.055    0.024    0  mag 2010AJ....140.1868W      qual:A  Var:0000 sdb-v1-112729.38-395235.4       0       0 
+ WISE4P6   7.089     0.021    0.028    0  mag 2010AJ....140.1868W      qual:A  Var:0000 sdb-v1-112729.38-395235.4       0       0 
+  AKARI9  0.1032    0.0257 0.001548    0   Jy 2010A&A...514A...1I      ext?:0  N-near:0 sdb-v1-112729.38-395235.4       0       0 
+  WISE12   7.122     0.016    0.045    0  mag 2010AJ....140.1868W      qual:A  Var:0000 sdb-v1-112729.38-395235.4       0       0 
+  WISE22   7.021     0.093    0.057    0  mag 2010AJ....140.1868W      qual:A  Var:0000 sdb-v1-112729.38-395235.4       0       0 
+  MIPS24 10150.0     62.32    203.0    0  uJy       2013.SEIP.dr4       Brt:0     Ext:0 sdb-v1-112729.38-395235.4       0       0 
+  MIPS70     9.0       0.0     0.63    1  mJy 2012ApJ...756..133C 24 Contam:N  Notes:VB                  HD 99627       0       0 

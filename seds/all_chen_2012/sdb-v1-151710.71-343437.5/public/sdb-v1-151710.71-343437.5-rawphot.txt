@@ -1,0 +1,32 @@
+\ photometry/spectra for sdb-v1-151710.71-343437.5
+\
+\main_id='HD 135619'
+\raj2000=229.2946133
+\dej2000=-34.5770748
+\sp_type='A2IV'
+\sp_bibcode='1982MSS...C03....0H'
+\plx_value=6.920000076293945
+\plx_err=0.36000001430511475
+\plx_bibcode='2016yCat.1337....0G'
+\id='sdb-v1-151710.71-343437.5'
+|   Band|  Phot|      Err|   Sys| Lim|Unit|            bibcode|      Note1|    Note2|                 SourceID|private|exclude|
+|   char|double|   double|double|long|char|               char|       char|     char|                     char|   long|   long|
+|       |      |         |      |    |    |                   |           |         |                         |       |       |
+|   null|  null|     null|  null|null|null|               null|       null|     null|                     null|   null|   null|
+      BT   8.23     0.016  0.006    0  mag 2000A&A...355L..27H    Prox:180 HIP:74797 sdb-v1-151710.71-343437.5       0       0 
+  BAPASS  8.157       0.0   0.01    0  mag 2016yCat.2336....0H      nobs:4   mobs:12 sdb-v1-151710.71-343437.5       0       1 
+  GAPASS  8.042       0.0   0.01    0  mag 2016yCat.2336....0H      nobs:4   mobs:12 sdb-v1-151710.71-343437.5       0       1 
+      VT  8.026     0.012  0.006    0  mag 2000A&A...355L..27H    Prox:180 HIP:74797 sdb-v1-151710.71-343437.5       0       0 
+      HP 8.0499 0.0214683  0.005    0  mag 1997HIP...C......0E    VarType:    Mult:C                 HIP 74797       0       0 
+  VAPASS  7.951       0.0   0.01    0  mag 2016yCat.2336....0H      nobs:4   mobs:12 sdb-v1-151710.71-343437.5       0       1 
+  RAPASS  7.994       0.0   0.01    0  mag 2016yCat.2336....0H      nobs:4   mobs:12 sdb-v1-151710.71-343437.5       0       1 
+  IAPASS  8.158       0.0   0.01    0  mag 2016yCat.2336....0H      nobs:4   mobs:12 sdb-v1-151710.71-343437.5       0       1 
+   2MR1J  7.619      0.02   0.01    0  mag 2003tmc..book.....C      Qflg:A    Cflg:d sdb-v1-151710.71-343437.5       0       1 
+   2MR1H  7.591     0.049   0.01    0  mag 2003tmc..book.....C      Qflg:A    Cflg:d sdb-v1-151710.71-343437.5       0       1 
+  2MR1KS  7.557     0.024   0.01    0  mag 2003tmc..book.....C      Qflg:A    Cflg:d sdb-v1-151710.71-343437.5       0       1 
+ WISE3P4  7.486     0.032  0.024    0  mag 2010AJ....140.1868W      qual:A  Var:0110 sdb-v1-151710.71-343437.5       0       0 
+ WISE4P6  7.509      0.02  0.028    0  mag 2010AJ....140.1868W      qual:A  Var:0110 sdb-v1-151710.71-343437.5       0       0 
+  WISE12  7.539     0.019  0.045    0  mag 2010AJ....140.1868W      qual:A  Var:0110 sdb-v1-151710.71-343437.5       0       0 
+  WISE22  7.507     0.156  0.057    0  mag 2010AJ....140.1868W      qual:B  Var:0110 sdb-v1-151710.71-343437.5       0       0 
+  MIPS24 7266.0     70.34 145.32    0  uJy       2013.SEIP.dr4       Brt:0     Ext:0 sdb-v1-151710.71-343437.5       0       0 
+  MIPS70    3.6       0.0  0.252    1  mJy 2012ApJ...756..133C 24 Contam:N  Notes:VB                 HD 135619       0       0 
